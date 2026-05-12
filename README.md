@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/logo.svg" alt="NBA Analytics Logo" width="680"/>
+</p>
+
 # NBA Performance Analytics — Database-Driven Visualization Framework
 
 A full analytics workflow built by a group of NBA fans who wanted to dig into 25 years of league data and actually answer the debates we kept having. We pulled data from multiple sources, built a relational database, and visualized everything in Tableau.
